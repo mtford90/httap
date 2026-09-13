@@ -80,7 +80,7 @@
   "dependencies": {
     "@ink-tools/ink-mouse": "^2.1.0",
     "@modelcontextprotocol/sdk": "^1.30.0",
-    "@opentui/core": "0.5.10",
+    "@opentui/core": "0.5.11",
     "@opentui/react": "0.5.10",
     "cli-highlight": "^2.1.11",
     "commander": "^15.0.0",
